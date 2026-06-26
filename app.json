@@ -1,8 +1,8 @@
 {
-  "name": "ADEEL-MD",
+  "name": "REII",
   "description": "Javascript WhatsApp bot made by ADEEL-MD",
   "logo": "https://files.catbox.moe/sx07qa.jpg",
-  "keywords": ["ADEEL-MD"],
+  "keywords": ["REII"],
   "success_url": "/",
   "env": {
     "SESSION_ID": {
@@ -13,7 +13,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "ADEEL-MD"
+      "value": "REII"
     },
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
@@ -63,17 +63,17 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ADEEL-MD"
+      "value": "RYREON"
     },
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923035512967"
+      "value": "923028558000"
     },
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "ADEEL-MD"
+      "value": "RYREON BOT"
     },
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
@@ -98,12 +98,12 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/sx07qa.jpg"
+      "value": "https://www.image2url.com/r2/default/images/1782516457410-8b182030-7da8-4698-96af-4e9eaf34c469.jpg"
     },
     "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*𝐂𝐑𝐄𝐀𝐓𝐄𝐑 𝐀𝐃𝐄𝐄𝐋-𝐌𝐃*"
+      "value": "*𝐂𝐑𝐄𝐀𝐓𝐄𝐑 : 𝐑𝐘𝐑𝐄𝐎𝐍*"
     },
     "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
