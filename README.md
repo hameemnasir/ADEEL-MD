@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://files.catbox.moe/8pfh7i.jpg" alt="𝐀𝐃𝐄𝐄𝐋-𝐌𝐃" width="800" style="border-radius:25px;box-shadow:0 0 40px #C8860A;"/>
+  <img src="https://www.image2url.com/r2/default/images/1782516457410-8b182030-7da8-4698-96af-4e9eaf34c469.jpg" alt="𝐑𝐘𝐑𝐄𝐎𝐍" width="800" style="border-radius:25px;box-shadow:0 0 40px #C8860A;"/>
 </h1>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -49,7 +49,7 @@
   </a>
 </p>
 
-<p align="center"><b>Enter your number with country code — Example: <code>923001234567</code></b></p>
+<p align="center"><b>Enter your number with country code — Example: <code>923028558000</code></b></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
