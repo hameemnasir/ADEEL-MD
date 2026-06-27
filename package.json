@@ -1,12 +1,12 @@
 {
-  "name": "ADEEL-MD",
+  "name": "REII",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By ADEEL-MD",
+  "description": "A WhatsApp Bot Created By RYREON",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name ADEEL-MD",
-    "stop": "pm2 stop ADEEL-MD",
-    "restart": "pm2 restart ADEEL-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name REII",
+    "stop": "pm2 stop REII",
+    "restart": "pm2 restart REII"
   },
   "engines": {
     "node": ">=24.x",
