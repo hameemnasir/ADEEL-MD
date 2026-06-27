@@ -6,17 +6,17 @@
 
 <!-- BADGES -->
 <p align="center">
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Adeel-Xtech/ADEEL-MD?color=F5A623&style=flat-square&logo=github&cacheSeconds=3600"/></a>
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Adeel-Xtech/ADEEL-MD?color=C8860A&style=flat-square&logo=github&cacheSeconds=3600"/></a>
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Adeel-Xtech/ADEEL-MD?style=flat-square&color=8B4513&cacheSeconds=3600"/></a>
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-F5A623.svg"/></a>
+  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/hameemnasir/ADEEL-MD?color=F5A623&style=flat-square&logo=github&cacheSeconds=3600"/></a>
+  <a href="https://github.com/hameemnasir/ADEEL-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/hameemnasir/ADEEL-MD?color=C8860A&style=flat-square&logo=github&cacheSeconds=3600"/></a>
+  <a href="https://github.com/hameemnasirADEEL-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/hameemnasir/ADEEL-MD?style=flat-square&color=8B4513&cacheSeconds=3600"/></a>
+  <a href="https://github.com/hameemnasir/ADEEL-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-F5A623.svg"/></a>
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <!-- DEVELOPER NAME -->
 <p align="center">
-  <a href="https://github.com/Adeel-Xtech" target="_blank">
+  <a href="https://github.com/hameemnasir" target="_blank">
     <img src="https://img.shields.io/badge/👨‍💻_DEVELOPER-ADEEL_XTECH-F5A623?style=for-the-badge&logoColor=black&labelColor=1a1100"/>
   </a>
 </p>
